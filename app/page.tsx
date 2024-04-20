@@ -6,11 +6,12 @@ const Page: React.FC = () => {
   return (
     <>
       <Head>
-        <title>Privacy Policy | Clear Outcomes</title>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-      </Head>
+    <title>Privacy Policy | Clear Outcomes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+</Head>
+
 
       <div className="flex flex-col items-center min-h-screen py-10 px-6 bg-white text-gray-900">
         <div className="w-full max-w-3xl">
