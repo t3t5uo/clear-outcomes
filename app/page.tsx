@@ -8,7 +8,7 @@ const Page: React.FC = () => {
       <Head>
         <title>Privacy Policy | Clear Outcomes</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
@@ -80,7 +80,7 @@ const Page: React.FC = () => {
               Wycliffe House<br/>
               Water Lane<br/>
               Wilmslow<br/>
-              Cheshire<br/>
+              Cheshire<br/> 
               SK9 5AF<br/>
               <p>Helpline number: 0303 123 1113</p>
               <p><a href="https://www.ico.org.uk" className="hover:underline">ICO website</a></p>
